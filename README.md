@@ -387,8 +387,6 @@ delete[] nyanCats;
 - [ ] Particle effects for collisions
 
 
-## 📄 License
-
 ## 📝 License
 
 Educational university project — free to use and modify for learning purposes.
@@ -397,7 +395,7 @@ Educational university project — free to use and modify for learning purposes.
 
 ## 📧 Contact
 **Ayesha Rauf** — [@ayesha189](https://github.com/ayesha189)  
-**Project Link**: [https://github.com/ayesha189/24-Tile-ConsoleGame](https://github.com/ayesha189/24-Tile-ConsoleGame)
+**Project Link**: [https://github.com/ayesha189/nyan-cat-vs-cheeseburger-game]
 
 ---
 
